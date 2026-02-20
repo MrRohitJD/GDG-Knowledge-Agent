@@ -73,7 +73,7 @@ gdg-aiml/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AmarjeetJha17/GDG-Knowledge-Agent.git
+git clone https://github.com/MrRohitJD/GDG-Knowledge-Agent.git
 cd GDG-Knowledge-Agent
 ```
 
