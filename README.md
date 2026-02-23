@@ -5,6 +5,12 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange.svg)](https://ai.google.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## 🌐 Live Demo
+
+**[Try the App Live →](https://mrrohitjd-gdg-knowledge-agent-day-3streamlit-app-zfrkpp.streamlit.app/)**
+
+---
+
 An intelligent **RAG (Retrieval-Augmented Generation)** powered chatbot built with Google's Gemini AI. Ask questions about GDG events, workshops, and any documents you upload - get accurate, sourced answers!
 
 ![GDG Knowledge Agent](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1200,q_100,w_1200/v1/gcs/platform-data-goog/contentbuilder/GDG_Bevy_SocialSharingThumbnail_KFxxrrs.png)
