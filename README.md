@@ -1,4 +1,4 @@
-# 🤖 GDG Knowledge Agent
+# 🤖 AI Knowledge Retrieval Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)](https://streamlit.io)
@@ -13,7 +13,7 @@
 
 An intelligent **RAG (Retrieval-Augmented Generation)** powered chatbot built with Google's Gemini AI. Ask questions about GDG events, workshops, and any documents you upload - get accurate, sourced answers!
 
-![GDG Knowledge Agent](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1200,q_100,w_1200/v1/gcs/platform-data-goog/contentbuilder/GDG_Bevy_SocialSharingThumbnail_KFxxrrs.png)
+![AI Knowledge Retrieval Assistant](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1200,q_100,w_1200/v1/gcs/platform-data-goog/contentbuilder/GDG_Bevy_SocialSharingThumbnail_KFxxrrs.png)
 
 ## ✨ Features
 
@@ -29,7 +29,7 @@ An intelligent **RAG (Retrieval-Augmented Generation)** powered chatbot built wi
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    GDG Knowledge Agent                       │
+│                    AI Knowledge Retrieval Assistant                       │
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
 │  User Question                                               │
